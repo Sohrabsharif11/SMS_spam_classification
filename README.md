@@ -10,7 +10,7 @@
 6. Model Training  
 7. Model Evaluation  
 8. Hyperparameter Tuning  
-9. Deployment (Optional)  
+9. Deployment 
 Programming Language: Python
 Libraries: NLTK, Scikit-learn, TensorFlow/Keras
 Tools: Jupyter Notebook
